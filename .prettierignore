@@ -1,0 +1,6 @@
+# Deep Directories
+node_modules/*
+.vscode
+
+# Directories
+.github
